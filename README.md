@@ -29,10 +29,10 @@ cd ML_Project
 ```
 
 ### Step 4: Create Custom Conda Environment
-Create a new Conda environment using the `environment.yaml` file:
+Create a new Conda environment using the `environment.yml` file:
 
 ```bash
-conda env create -f environment.yaml
+conda env create -f environment.yml
 ```
 
 ### Step 5: Activate the New Conda Environment
