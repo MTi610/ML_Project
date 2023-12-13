@@ -1,4 +1,3 @@
-```
 # Machine Learning Project Repository
 
 This repository contains the code and resources for a machine learning project. Below are the steps to set up and run the project in a Conda environment.
