@@ -18,7 +18,7 @@ conda activate
 Clone this repository to your local machine:
 
 ```bash
-git clone [URL of the repository]
+git clone https://github.com/MTi610/ML_Project.git
 ```
 
 ### Step 3: Change Directory
