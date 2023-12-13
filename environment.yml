@@ -1,4 +1,4 @@
-name: proj
+name: ml-proj
 channels:
   - conda-forge
   - defaults

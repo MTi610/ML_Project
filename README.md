@@ -21,8 +21,6 @@ Clone this repository to your local machine:
 git clone [URL of the repository]
 ```
 
-Replace `[URL of the repository]` with the actual URL of this GitHub repository.
-
 ### Step 3: Change Directory
 Navigate to the `ML_Project` directory:
 
@@ -41,10 +39,8 @@ conda env create -f environment.yaml
 Activate the newly created Conda environment:
 
 ```bash
-conda activate [YourEnvironmentName]
+conda activate ml-proj
 ```
-
-Replace `[YourEnvironmentName]` with the name of your environment specified in the `environment.yaml` file.
 
 ### Step 6: Start Jupyter Notebook
 Launch Jupyter Notebook within this environment:
@@ -68,6 +64,3 @@ To load the saved checkpoints for evaluation, refer to the specific instructions
 If you prefer to train the models from scratch, simply run the training cells in the `Project Code` file before proceeding to the evaluation.
 
 ---
-
-For any issues or further instructions, please refer to the project documentation or contact the repository maintainer.
-```
